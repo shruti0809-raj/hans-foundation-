@@ -1,0 +1,82 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 08 Aug 2024 15:26:13 at https://thehansfoundation.org/ https://thehansfoundation.org/donate-indian/ https://thehansfoundation.org/health/ https://thehansfoundation.org/disability/ https://thehansfoundation.org/terms-conditions/ https://thehansfoundation.org/privacy-policy/ https://thehansfoundation.org/livelihoods/ https://thehansfoundation.org/education/ https://thehansfoundation.org/disaster-relief/ https://thehansfoundation.org/news/ https://thehansfoundation.org/videos/ https://thehansfoundation.org/careers/ https://thehansfoundation.org/our-leadership/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" -P https://thehansfoundation.org/ https://thehansfoundation.org/ https://thehansfoundation.org/donate-indian/ https://thehansfoundation.org/health/ https://thehansfoundation.org/disability/ https://thehansfoundation.org/terms-conditions/ https://thehansfoundation.org/privacy-policy/ https://thehansfoundation.org/livelihoods/ https://thehansfoundation.org/education/ https://thehansfoundation.org/disaster-relief/ https://thehansfoundation.org/news/ https://thehansfoundation.org/videos/ https://thehansfoundation.org/careers/ https://thehansfoundation.org/our-leadership/ -O1 "C:\xampp\htdocs\shor foundation website\hans foundation\hans foundation" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+15:27:09	Warning: 	Link https://thehansfoundation.org/donate-indian/ not scanned (follow robots meta tag)
+15:28:41	Error: 	"Forbidden" (403) at link https://thehansfoundation.org/xmlrpc.php (from https://thehansfoundation.org/)
+15:28:41	Error: 	"Bad Request" (400) at link https://thehansfoundation.org/wp-admin/admin-ajax.php (from https://thehansfoundation.org/)
+15:29:13	Error: 	"Forbidden" (403) at link https://thehansfoundation.org/xmlrpc.php?rsd (from https://thehansfoundation.org/)
+15:29:13	Warning: 	Link https://thehansfoundation.org/little-hearts-programme/ not scanned (follow robots meta tag)
+15:29:13	Warning: 	Link https://thehansfoundation.org/cochlear-implant-programme/ not scanned (follow robots meta tag)
+15:39:02	Warning: 	Moved Permanently for https://thehansfoundation.org/?p=12789
+15:39:02	Warning: 	File has moved from https://thehansfoundation.org/?p=12789 to https://thehansfoundation.org/health/
+15:39:02	Warning: 	Moved Permanently for https://thehansfoundation.org/?p=12755
+15:39:02	Warning: 	File has moved from https://thehansfoundation.org/?p=12755 to https://thehansfoundation.org/disability/
+15:39:02	Warning: 	Moved Permanently for https://thehansfoundation.org/?p=8970
+15:39:02	Warning: 	File has moved from https://thehansfoundation.org/?p=8970 to https://thehansfoundation.org/terms-conditions/
+15:39:02	Warning: 	Moved Permanently for https://thehansfoundation.org/?p=8988
+15:39:02	Warning: 	File has moved from https://thehansfoundation.org/?p=8988 to https://thehansfoundation.org/privacy-policy/
+15:39:02	Warning: 	Moved Permanently for https://thehansfoundation.org/?p=12790
+15:39:02	Warning: 	File has moved from https://thehansfoundation.org/?p=12790 to https://thehansfoundation.org/livelihoods/
+15:39:02	Warning: 	Moved Permanently for https://thehansfoundation.org/?p=12780
+15:39:02	Warning: 	File has moved from https://thehansfoundation.org/?p=12780 to https://thehansfoundation.org/education/
+15:39:02	Warning: 	Moved Permanently for https://thehansfoundation.org/?p=12791
+15:39:02	Warning: 	File has moved from https://thehansfoundation.org/?p=12791 to https://thehansfoundation.org/disaster-relief/
+15:39:02	Warning: 	Moved Permanently for https://thehansfoundation.org/?p=5751
+15:39:02	Warning: 	File has moved from https://thehansfoundation.org/?p=5751 to https://thehansfoundation.org/news/
+15:39:20	Warning: 	Moved Permanently for https://thehansfoundation.org/?p=6993
+15:39:20	Warning: 	File has moved from https://thehansfoundation.org/?p=6993 to https://thehansfoundation.org/videos/
+15:39:20	Warning: 	Moved Permanently for https://thehansfoundation.org/?p=9309
+15:39:20	Warning: 	File has moved from https://thehansfoundation.org/?p=9309 to https://thehansfoundation.org/careers/
+15:39:20	Warning: 	Moved Permanently for https://thehansfoundation.org/?p=2481
+15:39:20	Warning: 	File has moved from https://thehansfoundation.org/?p=2481 to https://thehansfoundation.org/our-leadership/
+15:39:20	Warning: 	Moved Permanently for https://thehansfoundation.org/chairperson/
+15:39:20	Warning: 	File has moved from https://thehansfoundation.org/chairperson/ to https://thehansfoundation.org
+15:39:20	Warning: 	Moved Permanently for https://thehansfoundation.org/chairpersonmob/
+15:39:20	Warning: 	File has moved from https://thehansfoundation.org/chairpersonmob/ to https://thehansfoundation.org
+15:39:20	Warning: 	Moved Permanently for https://thehansfoundation.org/ceo/
+15:39:20	Warning: 	File has moved from https://thehansfoundation.org/ceo/ to https://thehansfoundation.org
+15:39:20	Warning: 	Moved Permanently for https://thehansfoundation.org/ceomob/
+15:39:20	Warning: 	File has moved from https://thehansfoundation.org/ceomob/ to https://thehansfoundation.org
+15:39:23	Warning: 	Moved Permanently for https://thehansfoundation.org/?p=3283
+15:39:23	Warning: 	File has moved from https://thehansfoundation.org/?p=3283 to https://thehansfoundation.org/annual-report/
+15:39:52	Warning: 	Moved Permanently for https://thehansfoundation.org/?p=13143
+15:39:52	Warning: 	File has moved from https://thehansfoundation.org/?p=13143 to https://thehansfoundation.org/bids/
+15:39:59	Warning: 	Moved Permanently for https://thehansfoundation.org/?p=13212
+15:39:59	Warning: 	File has moved from https://thehansfoundation.org/?p=13212 to https://thehansfoundation.org/2023/12/18/view-the-latest-annual-report-2022-2023/
+15:40:00	Warning: 	Moved Permanently for https://thehansfoundation.org/?p=12581
+15:40:00	Warning: 	File has moved from https://thehansfoundation.org/?p=12581 to https://thehansfoundation.org/2022/03/22/primary-healthcare-mobile-medical-units/
+15:40:01	Warning: 	Moved Permanently for https://thehansfoundation.org/?p=12578
+15:40:01	Warning: 	File has moved from https://thehansfoundation.org/?p=12578 to https://thehansfoundation.org/2022/03/22/mental-health-primary-healthcare-for-school-children/
+15:40:01	Warning: 	Moved Permanently for https://thehansfoundation.org/?p=12575
+15:40:01	Warning: 	File has moved from https://thehansfoundation.org/?p=12575 to https://thehansfoundation.org/2022/03/22/protecting-the-forests-of-uttarakhand-from-forest-fires/
+15:40:01	Warning: 	Moved Permanently for https://thehansfoundation.org/?p=12572
+15:40:01	Warning: 	File has moved from https://thehansfoundation.org/?p=12572 to https://thehansfoundation.org/2022/03/22/extending-a-helping-hand/
+15:40:02	Warning: 	Moved Permanently for https://thehansfoundation.org/our-work/
+15:40:02	Warning: 	File has moved from https://thehansfoundation.org/our-work/ to https://thehansfoundation.org
+15:40:02	Warning: 	Moved Permanently for https://thehansfoundation.org/himadri-hans-handloom/
+15:40:02	Warning: 	File has moved from https://thehansfoundation.org/himadri-hans-handloom/ to https://thehansfoundation.org
+15:40:02	Warning: 	Moved Permanently for https://thehansfoundation.org/resources/
+15:40:02	Warning: 	File has moved from https://thehansfoundation.org/resources/ to https://thehansfoundation.org
+15:40:02	Warning: 	Moved Permanently for https://thehansfoundation.org/events/
+15:40:02	Warning: 	File has moved from https://thehansfoundation.org/events/ to https://thehansfoundation.org
+15:40:02	Warning: 	Moved Permanently for https://thehansfoundation.org/?p=10450
+15:40:02	Warning: 	File has moved from https://thehansfoundation.org/?p=10450 to https://thehansfoundation.org/news-archive/
+15:40:14	Warning: 	Retry after error -5 (Unable to get server's address: No such host is known. ) at link ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js (from https://thehansfoundation.org/wp-content/uploads/reports/2015-annual-report/index.html)
+15:40:17	Warning: 	Moved Permanently for https://thehansfoundation.org/?p=13360
+15:40:17	Warning: 	File has moved from https://thehansfoundation.org/?p=13360 to https://thehansfoundation.org/tenders/rain-water-harvesting-system/
+15:40:17	Warning: 	Moved Permanently for https://thehansfoundation.org/?p=13358
+15:40:17	Warning: 	File has moved from https://thehansfoundation.org/?p=13358 to https://thehansfoundation.org/tenders/medicines-reagents-consumables-equipments/
+15:40:17	Warning: 	Moved Permanently for https://thehansfoundation.org/?p=13237
+15:40:17	Warning: 	File has moved from https://thehansfoundation.org/?p=13237 to https://thehansfoundation.org/tenders/mmus-fabrication-2023/
+15:40:17	Warning: 	Moved Permanently for https://thehansfoundation.org/?p=13232
+15:40:17	Warning: 	File has moved from https://thehansfoundation.org/?p=13232 to https://thehansfoundation.org/tenders/dpr-for-tuli-tea-garden-management-setting-up-of-factory/
+15:40:17	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js (from https://thehansfoundation.org/wp-content/uploads/reports/2015-annual-report/index.html)
+15:40:20	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js (from https://thehansfoundation.org/wp-content/uploads/reports/2015-annual-report/index.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 14 minutes 7 seconds : 799 links scanned, 760 files written (431421375 bytes overall) [424154216 bytes received at 500772 bytes/sec], 10376397 bytes transferred using HTTP compression in 235 files, ratio 25%, 24.9 requests per connection
+(4 errors, 67 warnings, 0 messages)
